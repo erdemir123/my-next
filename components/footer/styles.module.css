@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer Link {
+    text-decoration: underline;
+    color:red
+  }
