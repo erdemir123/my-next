@@ -5,7 +5,7 @@ import { FaPlus } from "react-icons/fa";
 
 import styles from "./styles.module.css";
 
-function FeaturedMovie({ movie = {}, isCompact = true }) {
+function FeaturedMovie({ movie = {}, isCompact = true  }) {
   const { poster_path, title, overview } = movie;
 
   return (
